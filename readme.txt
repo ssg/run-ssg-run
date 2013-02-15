@@ -1,0 +1,14 @@
+- = run ssg run = -
+
+an attempt to perform full screen scrolling in 128 bytes
+
+code: ssg / arteffect (ssg@sourtimes.org)
+
+coded and released at 7dx 2012 party, istanbul, turkey
+
+http://www.7dx-party.org
+
+note: only tested on winape. not sure how a real cpc will perform.
+
+thanks to skate, matahari and all the wonderful ppl at 7dx!
+
